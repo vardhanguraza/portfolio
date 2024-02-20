@@ -62,7 +62,7 @@ export const Projects = () => {
                                                                     key={index}
                                                                     {...project}
                                                                 />
-                                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                                                                <p>Social media dashboard: a dashboard that aggregates data from various social media platforms. This project demonstrates my ability to work with third-party APIs, data visualization, and responsive design.</p>
 
                                                             </Row>
 
@@ -79,7 +79,7 @@ export const Projects = () => {
                                                                     key={index}
                                                                     {...project}
                                                                 />
-                                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                                                                <p>Coming soon - Real time chat application: a real-time chat application using technologies like WebSocket or a chat API. Implemented features such as private messaging, group chats, and message notifications. </p>
 
                                                             </Row>
 
@@ -96,7 +96,7 @@ export const Projects = () => {
                                                                     key={index}
                                                                     {...project}
                                                                 />
-                                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                                                                <p> My own React Components Library named Gurza Components Library. This collection of reusable React components is designed to empower developers with high-quality, customizable UI elements. With a focus on modern design principles and user experience, these components streamline development while ensuring a polished and consistent look across projects. Explore the documentation and examples to see how Gurza Components Library can enhance your web development workflow and bring a touch of elegance to your applications</p>
                                                             </Row>
                                                         )
                                                     })
